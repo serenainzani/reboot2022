@@ -1,0 +1,41 @@
+.list-group {
+  display: none;
+}
+
+.language {
+  display: none;
+}
+
+.details {
+  display: none;
+  padding-top: 25px;
+}
+
+.alert-success {
+  display: none;
+}
+
+#confirm {
+  display: none;
+}
+
+.main-form {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.submit-button {
+  padding-bottom: 20px;
+}
+
+.form-group {
+  padding-bottom: 20px;
+}
+
+.available-appointments {
+  padding-bottom: 20px;
+}
+
+.details {
+  padding-bottom: 10px;
+}
